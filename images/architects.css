@@ -182,6 +182,23 @@ filter: grayscale(100%);
 .section-title{
   margin-bottom: 24px;
 }
+
+
+/* footer related styles */
+.footer-paragraph{
+  text-align: center;
+  padding:38px 410px;
+  font-size: 1.25rem;
+  color:rgba(66, 66, 66, 1);
+  background: rgba(255, 244, 231, 1);
+  border-radius: 8px;
+  font-weight: 400;
+  max-width: 1440px;
+}
+.footer-sec{
+  margin-top: 130px;
+  margin-bottom: 216px;
+}
 /* responsive media query */
 @media screen and (max-width:576px) {
   nav, 
